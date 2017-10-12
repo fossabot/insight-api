@@ -1,4 +1,6 @@
 # *insight API*
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Finsight-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Finsight-api?ref=badge_shield)
+
 
 *insight API* is an open-source bitcoin blockchain  REST
 and websocket API. Insight API runs in NodeJS and use LevelDB for storage. 
@@ -226,3 +228,6 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Finsight-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Finsight-api?ref=badge_large)
